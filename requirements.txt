@@ -1,0 +1,7 @@
+kalepy
+networkx==2.5
+redis
+tqdm
+covasim<3.1
+cykhash
+celery<5
